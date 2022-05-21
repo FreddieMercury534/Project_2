@@ -1,0 +1,210 @@
+How many players? (0 - 2)
+0
+Player 1's hand now: [7c, jc, 3h, qh, 4s, 3c, 6h, 3d, kd, as]
+Player 2's hand now: [9d, 9h, 6c, ac, td, 5h, 7d, jd, 5s, qc]
+Press START to begin!
+         Added from deck th
+        laying 3h
+        laying 3c
+        laying 3d
+         Discarded to stack qh
+Player 1's hand now: [7c, jc, 4s, 6h, kd, as, th]
+Player 2's turn
+         Added from deck 6d
+         Discarded to stack 7d
+Player 2's hand now: [9d, 9h, 6c, ac, td, 5h, jd, 5s, qc, 6d]
+Player 1's turn
+         Added from stack 7d
+         Discarded to stack 4s
+Player 1's hand now: [7c, jc, 6h, kd, as, th, 7d]
+Player 2's turn
+         Added from stack 4s
+         Discarded to stack td
+Player 2's hand now: [9d, 9h, 6c, ac, 5h, jd, 5s, qc, 6d, 4s]
+Player 1's turn
+         Added from deck qs
+         Discarded to stack 7d
+Player 1's hand now: [7c, jc, 6h, kd, as, th, qs]
+Player 2's turn
+         Added from stack 7d
+         Discarded to stack 4s
+Player 2's hand now: [9d, 9h, 6c, ac, 5h, jd, 5s, qc, 6d, 7d]
+Player 1's turn
+         Added from deck 7h
+         Discarded to stack kd
+Player 1's hand now: [7c, jc, 6h, as, th, qs, 7h]
+Player 2's turn
+         Added from deck tc
+         Discarded to stack tc
+Player 2's hand now: [9d, 9h, 6c, ac, 5h, jd, 5s, qc, 6d, 7d]
+Player 1's turn
+         Added from deck 7s
+        laying 7c
+        laying 7h
+        laying 7s
+         Discarded to stack as
+Player 1's hand now: [jc, 6h, th, qs]
+Player 2's turn
+         Added from deck 3s
+         Discarded to stack 9h
+Player 2's hand now: [9d, 6c, ac, 5h, jd, 5s, qc, 6d, 7d, 3s]
+Player 1's turn
+         Added from deck 2c
+         Discarded to stack th
+Player 1's hand now: [jc, 6h, qs, 2c]
+Player 2's turn
+         Added from deck 5d
+        laying 5h
+        laying 5s
+        laying 5d
+         Discarded to stack jd
+Player 2's hand now: [9d, 6c, ac, qc, 6d, 7d, 3s]
+Player 1's turn
+         Added from stack jd
+         Discarded to stack 6h
+Player 1's hand now: [jc, qs, 2c, jd]
+Player 2's turn
+         Added from deck 4h
+         Discarded to stack 4h
+Player 2's hand now: [9d, 6c, ac, qc, 6d, 7d, 3s]
+Player 1's turn
+         Added from deck 8s
+         Discarded to stack qs
+Player 1's hand now: [jc, 2c, jd, 8s]
+Player 2's turn
+         Added from stack qs
+         Discarded to stack qc
+Player 2's hand now: [9d, 6c, ac, 6d, 7d, 3s, qs]
+Player 1's turn
+         Added from stack qc
+         Discarded to stack qc
+Player 1's hand now: [jc, 2c, jd, 8s]
+Player 2's turn
+         Added from stack qc
+         Discarded to stack 6d
+Player 2's hand now: [9d, 6c, ac, 7d, 3s, qs, qc]
+Player 1's turn
+         Added from deck 8c
+         Discarded to stack jd
+Player 1's hand now: [jc, 2c, 8s, 8c]
+Player 2's turn
+         Added from deck kc
+         Discarded to stack ac
+Player 2's hand now: [9d, 6c, 7d, 3s, qs, qc, kc]
+Player 1's turn
+         Added from deck 8h
+        laying 8s
+        laying 8c
+        laying 8h
+         Discarded to stack 2c
+Player 1's hand now: [jc]
+Player 2's turn
+         Added from deck js
+         Discarded to stack 7d
+Player 2's hand now: [9d, 6c, 3s, qs, qc, kc, js]
+Player 1's turn
+         Added from deck 2h
+         Discarded to stack 2h
+Player 1's hand now: [jc]
+Player 2's turn
+         Added from deck ks
+         Discarded to stack 9d
+Player 2's hand now: [6c, 3s, qs, qc, kc, js, ks]
+Player 1's turn
+         Added from deck 4c
+         Discarded to stack jc
+Player 1's hand now: [4c]
+Player 2's turn
+         Added from deck 5c
+         Discarded to stack ks
+Player 2's hand now: [6c, 3s, qs, qc, kc, js, 5c]
+Player 1's turn
+         Added from stack ks
+         Discarded to stack 4c
+Player 1's hand now: [ks]
+Player 2's turn
+         Added from deck 9s
+         Discarded to stack 9s
+Player 2's hand now: [6c, 3s, qs, qc, kc, js, 5c]
+Player 1's turn
+         Added from deck ts
+         Discarded to stack ks
+Player 1's hand now: [ts]
+Player 2's turn
+         Added from deck ad
+         Discarded to stack 3s
+Player 2's hand now: [6c, qs, qc, kc, js, 5c, ad]
+Player 1's turn
+         Added from stack 3s
+         Discarded to stack 3s
+Player 1's hand now: [ts]
+Player 2's turn
+         Added from stack 3s
+         Discarded to stack qs
+Player 2's hand now: [6c, qc, kc, js, 5c, ad, 3s]
+Player 1's turn
+         Added from deck kh
+         Discarded to stack ts
+Player 1's hand now: [kh]
+Player 2's turn
+         Added from stack ts
+         Discarded to stack 6c
+Player 2's hand now: [qc, kc, js, 5c, ad, 3s, ts]
+Player 1's turn
+         Added from deck qd
+         Discarded to stack qd
+Player 1's hand now: [kh]
+Player 2's turn
+         Added from deck 4d
+         Discarded to stack kc
+Player 2's hand now: [qc, js, 5c, ad, 3s, ts, 4d]
+Player 1's turn
+         Added from stack kc
+         Discarded to stack kc
+Player 1's hand now: [kh]
+Player 2's turn
+         Added from stack kc
+         Discarded to stack 3s
+Player 2's hand now: [qc, js, 5c, ad, ts, 4d, kc]
+Player 1's turn
+         Added from deck jh
+         Discarded to stack kh
+Player 1's hand now: [jh]
+Player 2's turn
+         Added from deck 2s
+         Discarded to stack 4d
+Player 2's hand now: [qc, js, 5c, ad, ts, kc, 2s]
+Player 1's turn
+         Added from stack 4d
+         Discarded to stack 4d
+Player 1's hand now: [jh]
+Player 2's turn
+         Added from stack 4d
+         Discarded to stack qc
+Player 2's hand now: [js, 5c, ad, ts, kc, 2s, 4d]
+Player 1's turn
+         Added from deck 2d
+         Discarded to stack 2d
+Player 1's hand now: [jh]
+Player 2's turn
+         Added from stack 2d
+         Discarded to stack 5c
+Player 2's hand now: [js, ad, ts, kc, 2s, 4d, 2d]
+Player 1's turn
+         Added from stack 5c
+         Discarded to stack jh
+Player 1's hand now: [5c]
+Player 2's turn
+         Added from deck 6s
+         Discarded to stack kc
+Player 2's hand now: [js, ad, ts, 2s, 4d, 2d, 6s]
+Player 1's turn
+         Added from deck ah
+         Discarded to stack ah
+Player 1's hand now: [5c]
+Player 2's turn
+No cards left in deck.
+
+Points: 5 to 35
+ Player 1 wins!
+
